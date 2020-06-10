@@ -1,15 +1,6 @@
 from datetime import datetime, date, time, timedelta
 import math
 
-
-
-
-
-
-
-
-
-
 monStart = input("Enter Monday Start Time - HH:MM :")
 monFinish = input("Enter Monday Finish Time - HH:MM :")
 #tueStart = input("Enter Tuesday Start Time - HH:MM :")
