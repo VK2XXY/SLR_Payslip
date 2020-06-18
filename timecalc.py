@@ -13,7 +13,7 @@ startDateArray = startDateStr.split("/")
 startDate = datetime(int(startDateArray[2]), int(startDateArray[1]), int(startDateArray[0]))
 
 
-#print(startDate)
+print(startDate)
 
 
 print("\n You entered " + startDate.strftime("%A" ", " "%d" " of " "%B" " " "%Y") + "\n")
