@@ -9,6 +9,10 @@ startDateArray = startDateStr.split("/")
 
 #print(startDateArray)
 
+print("Hello World")
+
+from sys import os
+
 
 startDate = datetime(int(startDateArray[2]), int(startDateArray[1]), int(startDateArray[0]))
 
