@@ -11,8 +11,6 @@ startDateArray = startDateStr.split("/")
 
 print("Hello World")
 
-from sys import os
-
 
 startDate = datetime(int(startDateArray[2]), int(startDateArray[1]), int(startDateArray[0]))
 
