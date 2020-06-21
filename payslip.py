@@ -33,7 +33,7 @@ print ("\n", "Time:", datetime.time(time),
 #print(d)
 
 
-#s1 = '06:22:00'
+# s1 = '06:22:00'
 #s2 = '24:13:00' # for example
 #format = '%H:%M:%S'
 #time = datetime.strptime(s2, format) - datetime.strptime(s1, format)
