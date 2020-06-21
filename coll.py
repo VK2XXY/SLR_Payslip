@@ -1,12 +1,7 @@
-from collections import deque
+import collections
 
-
-d = deque('qwerty')
-
-
-
-
-deck = deque('\nhello\n')
+deck = collections.deque('\nhello\n')
+# deck.append('\nhello\n')
 for elem in deck:                   # iterate over the deque's elements
     print(elem.upper())
 
